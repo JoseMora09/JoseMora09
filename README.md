@@ -23,7 +23,13 @@
 
 ##**Professional:**
 
-I have no experience when it comes to coding unfortunately. My professional experience is in networking and product owner/product management. 
+I have no experience when it comes to coding unfortunately. My professional experience is in networking and product owner/product management.
+
+###**Contacts:**
+
+Josmo@microsoft.com
+
+[Linkedin](https://www.linkedin.com/in/jose-mora-17871a143/)
 
 
 

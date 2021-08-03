@@ -1,0 +1,36 @@
+body{
+    background-color:light gray;
+}
+
+h1 { 
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style:normal;
+border-style: hidden;
+margin: auto;
+padding: auto;
+color:black;
+}
+
+h3{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style:hidden ;
+    margin: auto;
+    padding: auto;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin:auto;
+    padding: auto;
+}
+
+li{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    padding: auto;
+}
